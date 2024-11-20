@@ -18,12 +18,13 @@ the following details:
 
 This structured approach aims to facilitate smooth communication and organization throughout the tournament.
 
-# This cup will play a game starting with 16 teams, narrowing down to 8, then 4, then 2, and finally determining the winner.
-
+#****# This cup will play a game starting with 16 teams, narrowing down to 8, then 4, then 2, and finally determining the winner.
 
 # Run:
 
 
 
-# Notice : you should put the jade library in the lib folder to use its AI java.
+
+
+#****# Notice : you should put the jade library in the lib folder to use its AI java.
 
