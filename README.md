@@ -23,7 +23,6 @@ This structured approach aims to facilitate smooth communication and organizatio
 # Run:
 
 
-![program (1)](https://github.com/user-attachments/assets/00fa22f7-a598-467e-8486-81953bec3086)
 
 ![program](https://github.com/user-attachments/assets/999d7e26-002c-4d9d-a0f1-cb7ba7cc087b)
 
