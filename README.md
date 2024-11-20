@@ -24,9 +24,10 @@ This structured approach aims to facilitate smooth communication and organizatio
 
 
 
+
 ![program](https://github.com/user-attachments/assets/999d7e26-002c-4d9d-a0f1-cb7ba7cc087b)
 
 
 
-#****# Notice : you should put the jade library in the lib folder to use its AI java.
 
+#****# Notice : you should put the jade library in the lib folder to use its AI java.
