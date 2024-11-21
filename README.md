@@ -1,4 +1,4 @@
-# An-AI-Football-Cup-In-Java-Jade-Environment
+# An-AI-Football-Cup-In-a-Java-Jade-Environment
 
 ![th](https://github.com/user-attachments/assets/91a4f1b9-570d-4f99-a9e5-0a33e2b79497)
 
